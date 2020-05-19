@@ -2,6 +2,5 @@
 A dictionary program
 
 TODO:
-create a web page with a SQL database
-
+to be made
 Finished:
