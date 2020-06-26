@@ -1,6 +1,6 @@
 # Dictionary
-A dictionary program
+A dictionary program( search up a word and a definition will be given)  
 
 TODO:
-to be made
+allow it to interact with web browser and give live updates to words that could be mispelled
 Finished:
